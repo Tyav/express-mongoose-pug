@@ -8,13 +8,12 @@ Read the [wiki](https://github.com/tyav/express-mongoose-pug/wiki) to understand
 
 ## Usage
 
-    git clone https://github.com/madhums/node-express-mongoose.git
+    git clone https://github.com/Tyav/express-mongoose-pug.git
     cd node-express-mongoose
     npm install
     cp .env.example .env
     npm start
 
-Checkout the [apps that are built using this approach](https://github.com/madhums/node-express-mongoose/wiki/Apps-built-using-this-approach)
 
 ## Docker
 
